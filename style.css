@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#circle{
+    width: 24.01042vw ;
+    height: 24.63542vw ;
+}
+.images{
+    position:absolute;
+    width:0.26042vw;
+}
+body{
+    background-color: #121113;
+}
